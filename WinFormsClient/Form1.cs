@@ -14,7 +14,7 @@ namespace WinFormsClient
 
         private async void btnConnect_Click(object sender, EventArgs e)
         {
-            
+            //удалить обработчик
         }
 
         private async void btnMessage_Click(object sender, EventArgs e)
